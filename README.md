@@ -6,7 +6,7 @@
 </thead>
 <tbody>
 <tr>
-<td>javascript:alert(1)</td>
+<td>><img src=x onerror='alert(2)'>javascript:alert(1)</td>
 </tr>
 </tbody>
 </table></markdown-accessiblity-table>
